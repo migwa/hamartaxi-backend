@@ -181,8 +181,8 @@ navigate('/dashboard')
 
 ## 👨‍💻 Author
 
-- **Built by:** YourCompany (or you)
-- **Email:** admin@yourdomain.com
+- **Built by:** Coretex Systems
+- **Email:** admin@coretexsys.com
 
 ---
 
